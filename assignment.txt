@@ -3,3 +3,5 @@ introduction
 to GitHub.
 I am learning how to
 commit changes.
+I am now editing 
+the assignment by adding two lines.
